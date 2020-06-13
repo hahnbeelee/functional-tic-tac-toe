@@ -1,0 +1,14 @@
+{
+  "type": "array",
+  "leaderboard": {
+    "type": "object",
+    "properties": {
+      "user": {
+        "type": "string"
+      },
+      "score": {
+        "type": "string"
+      }
+    }
+  }
+}
