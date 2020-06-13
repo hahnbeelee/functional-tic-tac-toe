@@ -1,0 +1,16 @@
+The game engine is meant to be run from the command line. You should be able to
+run the game after you have downloaded and unzipped the game data folder.
+
+After downloading the game data folder, please use the command line to unzip
+the folder by following these directions...
+
+First, navigate to the directory in which you'd like to unzip the folder using
+"cd filepath" where filepath is replaced by the path to the game data folder on
+your machine. Next, move the game data folder into your current directory using
+"move filepath" where filepath is replaced by the path to the game data folder
+on your machine. Finally, unzip the game data folder using "unzip main.zip".
+
+After unzipping the file folder and navigating to directory of the unzipped
+folder in the command line using "cd filepath" where filepath is replaced by
+the path to the unzipped game data folder on your machine, type "make play" 
+into the command line to start the game engine.
