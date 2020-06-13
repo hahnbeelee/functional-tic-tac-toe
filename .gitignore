@@ -1,0 +1,25 @@
+# assignment
+doc.public
+doc.private
+lb_ai_easy.json
+lb_ai_hard.json
+lb_ai_med.json
+lb_classic.json
+lb_ultimate.json
+main.zip
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.out
+*.cmx
+*.native
+*.byte
+_build
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store

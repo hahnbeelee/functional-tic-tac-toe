@@ -1,0 +1,10 @@
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "command.cmo";;
+#load "state.cmo";;
+#load "leaderboard.cmo";;
+#load "ai.cmo";;
+#load "ultimatestate.cmo";;
+#load "test.cmo";;
+#load "main.cmo";;

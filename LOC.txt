@@ -1,0 +1,15 @@
+We spent a lot of time thinking about implementing graphics, which we ultimately
+decided against. It also took us a while to perfect writing to files due to 
+multiple issues that had to be resolved with a TA. This took away from the time 
+we had to implement the other parts of our system.
+
+We realized our system was severely undersized about half way through the last 
+sprint, which drove us to implement ultimate tic-tac-toe in addition to ai 
+tic-tac-toe and classic tic-tac-toe.
+
+A lot of the code we used in our ultimate tic-tac-toe implementation came from 
+our classic tic-tac-toe implementation and was adapted.
+
+Even after implementing ultimate tic-tac-toe, the process of removing duplicate 
+code and improving code quality drove down the number of lines of code we had. 
+For these reasons, our system is undersized.
