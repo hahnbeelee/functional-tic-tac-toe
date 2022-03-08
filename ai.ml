@@ -1,6 +1,6 @@
 (* A set of functions that analyze and mark positions on the board in an 
     attempt to prevent player one from achieving the win condition. *)
-(** yuh small change *)
+(** yuh small change again *)
 open State
 
 (** [rand_mark st] marks a random position on the board in the game represented 
